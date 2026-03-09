@@ -75,7 +75,8 @@ Currently deepening my systems-level engineering skills through **Rust** and **R
 ---
 
 ## 📫 Contact
-- ✉️ Email: franco.grion@gmail.com  
+- 🌐 Personal website: https://francogrion.dev
+- ✉️ Email: contact@francogrion.dev  
 - 💼 LinkedIn: https://linkedin.com/in/franco-emanuel-grion  
 
 <p align="center">
