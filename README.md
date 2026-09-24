@@ -5,7 +5,7 @@
 
 ## 👋 Hi, I'm Franco — Senior Backend Engineer (Java Specialist)
 
-Backend Software Engineer with **8+ years of experience** building reliable, scalable systems in **fintech, travel, and banking**.  
+Backend Software Engineer with **9+ years of experience** building reliable, scalable systems in **fintech, travel, and banking**.  
 My strongest expertise is in **Java (7 → 21)**, **Spring Boot**, and **microservices**, with a proven track record improving performance, modernizing legacy systems, and delivering high‑volume financial workflows.
 
 Currently deepening my systems-level engineering skills through **Rust** and **React**.
